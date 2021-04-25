@@ -1,6 +1,6 @@
 < [GMIT Data Analytics](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) | [Home](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/cta-searching/blob/main/README.md) >
 
-[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/img/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
+[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 ## Computational Thinking with Algorithms - Course Material 2021
 ### Topic: [Searching](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-searching/blob/main/cta-searching.ipynb)
